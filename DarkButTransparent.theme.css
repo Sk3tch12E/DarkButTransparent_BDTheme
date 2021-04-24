@@ -1,0 +1,30 @@
+/**
+ * @name DarkButTransparent
+ * @version 0.0.1
+ * @description Just a simple theme to have darkmode but transparent
+ * 
+ * @website http://twitter.com/Sk3tch12E
+ */
+
+.theme-dark{
+    --background-primary: rgba(54, 57, 63, .3);/*background of main body*/
+    --background-secondary: rgba(47, 49, 54, .3);/*background of channels area*/
+    --background-tertiary: rgba(32, 34, 37, .2);/*full windows background*/
+	--background-accent: rgba(79, 84, 92, 1);/*Colour behind server icons like boost or people streaming*/
+    --background-floating: rgba(24, 25, 28, .9); /*Hover menus*/
+    --background-modifier-hover: rgba(48,48,50,.9);/*colour when hovering over button*/
+    --background-modifier-active: rgba(0,0,0,.5);/*Colour when clicking something*/
+    --background-modifier-selected: rgba(53, 57, 61,.5);/*Colour behind selected server*/
+    --background-modifier-accent: transparent;/*Line above servers list*/
+    --channeltextarea-background: rgba(64,68,75,.3);/*Colour of text box where you type*/
+    --activity-card-background: rgba(200,0,0,1); /*Seems to not work*/
+	/*--deprecated-panel-background: rgba(0,100,0,1);
+    --deprecated-card-bg: rgba(0,100,0,1);
+    --deprecated-card-editable-bg: rgba(0,100,0,1);
+    --deprecated-store-bg: rgba(0,100,0,1);*/
+}
+
+.panels-j1Uci_{
+  background: rgba(41, 43, 47,0);/*Username panel*/
+}
+/**/
