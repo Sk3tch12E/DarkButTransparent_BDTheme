@@ -5,15 +5,6 @@
  * 
  * @website http://twitter.com/Sk3tch12E
  */
-:root {
-    --font: 'Open Sans';
-}
-::placeholder, body, button, input, select, textarea {
-    font-family: var(--font), sans-serif;
-}
-.name-23GUGE{
-    font-size: 14px;
-}
 
 .theme-dark{
     --background-primary: rgba(54, 57, 63, .3);/*background of main body*/
