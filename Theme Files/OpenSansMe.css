@@ -1,0 +1,14 @@
+/*
+*
+*
+*/
+
+:root {
+    --font: 'Open Sans';
+}
+::placeholder, body, button, input, select, textarea {
+    font-family: var(--font), sans-serif;
+}
+.name-23GUGE{
+    font-size: 14px;
+}
