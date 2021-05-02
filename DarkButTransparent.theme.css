@@ -6,8 +6,12 @@
  * @website http://twitter.com/Sk3tch12E
  */
  
- /* Lode Base Source Code */
+ /* Load Base Source Code */
 @import url(https://sk3tch12e.github.io/DarkButTransparent_BDTheme/Theme%20Files/MainTheme.css);
+
+:root {
+  --Transparency: 0.3;
+}
 
 /* Other Imports */
 /*@import url(https://sk3tch12e.github.io/DarkButTransparent_BDTheme/Theme%20Files/HideServerChannels.css);*/
