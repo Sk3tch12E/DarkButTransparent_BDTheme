@@ -5,14 +5,11 @@
  * 
  * @website http://twitter.com/Sk3tch12E
  */
-:root {
-  --Transparency: 0.3;
-}
 
 .theme-dark{
     --background-primary: rgba(54, 57, 63, .3);/*background of main body*/
     --background-secondary: rgba(47, 49, 54, .3);/*background of channels area*/
-    --background-tertiary: rgba(32, 34, 37, (--Transparency));/*full windows background*/
+    --background-tertiary: rgba(32, 34, 37, .3);/*full windows background*/
     --background-accent: rgba(79, 84, 92, 1);/*Colour behind server icons like boost or people streaming*/
     --background-floating: rgba(24, 25, 28, .9); /*Hover menus*/
     --background-modifier-hover: rgba(48,48,50,.9);/*colour when hovering over button*/
