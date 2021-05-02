@@ -8,6 +8,13 @@
  
  /* Load Base Source Code */
 @import url(https://sk3tch12e.github.io/DarkButTransparent_BDTheme/Theme%20Files/MainTheme.css);
+:root {
+    --Transparency: .3; /*Transparency of the window*/
+}
+
+.theme-dark{
+    --background-tertiary: rgba(32, 34, 37, (--Transparency));/*full windows background*/
+}
 
 :root {
   --Transparency: 0.3;
