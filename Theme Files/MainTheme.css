@@ -6,10 +6,6 @@
  * @website http://twitter.com/Sk3tch12E
  */
 
-:root {
-  --Transparency: defaultvalue;
-}
-
 .theme-dark{
     --background-primary: rgba(54, 57, 63, .3);/*background of main body*/
     --background-secondary: rgba(47, 49, 54, .3);/*background of channels area*/
