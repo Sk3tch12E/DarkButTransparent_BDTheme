@@ -10,12 +10,9 @@
 @import url(https://sk3tch12e.github.io/DarkButTransparent_BDTheme/Theme%20Files/MainTheme.css);
 
 :root {
-    --Transparency: .3; /*Transparency of the window. Please choose a value 0-1*/
-}
-.theme-dark{    
-    --background-tertiary: rgba(32, 34, 37, (--Transparency));/*full windows background*/
+    --Transparency: 30%; /*Transparency of the window. Please choose a value 0-1*/
 }
 
 /* Other Imports */
-/*@import url(https://sk3tch12e.github.io/DarkButTransparent_BDTheme/Theme%20Files/HideServerChannels.css);*/
-/*@import url(https://sk3tch12e.github.io/DarkButTransparent_BDTheme/Theme%20Files/OpenSansMe.css);*/
+@import url(https://sk3tch12e.github.io/DarkButTransparent_BDTheme/Theme%20Files/HideServerChannels.css);
+@import url(https://sk3tch12e.github.io/DarkButTransparent_BDTheme/Theme%20Files/OpenSansMe.css);
